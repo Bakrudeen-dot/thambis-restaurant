@@ -21,7 +21,7 @@ export interface OpeningHoursEntry {
 export const restaurantConfig = {
   name: "Thambis Restaurant & Cafe",
   shortName: "Thambis",
-  siteUrl: "https://www.thambis.sa", // TODO: replace with the real domain
+  siteUrl: "https://thambis-restaurant.vercel.app", // TODO: change when a custom domain is added
 
   /** Human-readable local format, shown on the page. */
   phoneDisplay: "059 797 4906",
